@@ -1,0 +1,99 @@
+{
+  "exams": [
+    {
+      "id": "jee-main",
+      "name": "JEE Main",
+      "category": "Engineering",
+      "duration": 180,
+      "totalMarks": 300,
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": -1,
+      "sections": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ],
+      "questionCount": 90,
+      "active": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "neet-ug",
+      "name": "NEET UG",
+      "category": "Medical",
+      "duration": 200,
+      "totalMarks": 720,
+      "negativeMarking": true,
+      "marksPerQuestion": 4,
+      "negativeMarks": -1,
+      "sections": [
+        "Physics",
+        "Chemistry",
+        "Biology"
+      ],
+      "questionCount": 200,
+      "active": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "ap-eamcet",
+      "name": "AP EAMCET",
+      "category": "Engineering",
+      "duration": 180,
+      "totalMarks": 160,
+      "negativeMarking": true,
+      "marksPerQuestion": 1,
+      "negativeMarks": -1,
+      "sections": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ],
+      "questionCount": 160,
+      "active": true,
+      "createdAt": "2026-04-10T07:12:37.191Z"
+    }
+  ],
+  "questions": [],
+  "papers": [],
+  "users": [
+    {
+      "id": "1d936fc7-ad5a-4428-a077-072015de9ce1",
+      "name": "Ganesh",
+      "email": "dattiganesh61@gmail.com",
+      "password": "123456",
+      "phone": "",
+      "targetExam": "",
+      "city": "",
+      "state": "",
+      "schoolName": "",
+      "currentClass": "",
+      "bio": "",
+      "avatar": "",
+      "createdAt": "2026-04-10T07:14:35.970Z",
+      "updatedAt": "2026-04-10T07:14:35.970Z"
+    },
+    {
+      "id": "890dbc21-64d7-4234-9a4c-1ca65813b606",
+      "name": "Raja",
+      "email": "dattiganesh341@gmail.com",
+      "password": "123456",
+      "phone": "",
+      "targetExam": "",
+      "city": "",
+      "state": "",
+      "schoolName": "",
+      "currentClass": "",
+      "bio": "",
+      "avatar": "",
+      "createdAt": "2026-04-10T07:15:39.247Z",
+      "updatedAt": "2026-04-10T07:15:39.247Z"
+    }
+  ],
+  "testResults": [],
+  "admin": {
+    "username": "admin",
+    "password": "mockprep@2026"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mockprep-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.21.2",
+    "uuid": "^13.0.0"
+  }
+}
